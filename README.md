@@ -8,3 +8,6 @@ Just run:
     $ python main.py
 
 And you will be asked to choose a category to scrap offer data from
+
+#Thanks to
+* @nidhaloff for the translator api. Link to the project: https://github.com/nidhaloff/deep-translator
