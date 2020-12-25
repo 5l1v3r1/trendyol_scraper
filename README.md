@@ -3,4 +3,8 @@ A web scraper for getting daily offers from trendyol.com. Powered by python and 
 
 # Usage
 Just run:
-[code] python main.py
+.. code-block:: console
+
+    $ python main.py
+
+And you will be asked to choose a category to scrap offer data from
