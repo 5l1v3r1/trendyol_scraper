@@ -3,7 +3,7 @@ A web scraper for getting daily offers from trendyol.com. Powered by python and 
 
 # Usage
 Just run:
-.. code-block:: console
+code-block:: console
 
     $ python main.py
 
